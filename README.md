@@ -1,0 +1,1 @@
+# kafkactl-token-plugin
